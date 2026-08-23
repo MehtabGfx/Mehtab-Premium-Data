@@ -1,2 +1,2 @@
-testaccount1@gmail.com:mypassword123
-testaccount2@gmail.com:mypassword456
+testaccount1@gmail.com
+testaccount2@gmail.com
